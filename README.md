@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm ADitya miSHRA</h1>
+<h1 align="center">Hey 👋, I'm Aditya Mishra</h1>
 <h3 align="center">Passionate about engineering...</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
